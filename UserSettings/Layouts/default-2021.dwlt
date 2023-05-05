@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 75
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 77
+  controlID: 76
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 78
+  controlID: 77
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\moura\a45829-Unity-Essentials
+  m_LastProjectPath: C:\Users\moura\multimedia\a45829-Unity-Essentials
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -825,9 +825,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.1512259, y: 0.8051712, z: -0.23223652, w: -0.5243056}
   m_Size:
-    m_Target: 2.666914
+    m_Target: 5.8304276
     speed: 2
-    m_Value: 2.666914
+    m_Value: 5.5793567
   m_Ortho:
     m_Target: 0
     speed: 2
